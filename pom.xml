@@ -18,7 +18,7 @@
                         </manifest>
                     </archive>
                     <descriptorRefs>
-                        <descriptorRef>App</descriptorRef>
+                        <descriptorRef>project</descriptorRef>
                     </descriptorRefs>
                     <finalName>Ejecutable</finalName>
                 </configuration>
